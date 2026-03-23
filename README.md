@@ -225,6 +225,6 @@ xfconf-query --channel xsettings --property /Gtk/CursorThemeSize --set 13
 }
 ```
 
-Plugin 
+#### Sublime Text Plugin 
 - Ayu Theme
 - A File Icon
