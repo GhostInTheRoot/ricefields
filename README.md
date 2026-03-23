@@ -127,7 +127,7 @@ Install Chaotic AUR from its website:
 ### Fonts
 
 ```bash
-yay -S ttf-jetbrains-mono-nerd
+yay -S ttf-jetbrains-mono-nerd ttf-fira-code
 ```
 
 ---
