@@ -226,5 +226,5 @@ xfconf-query --channel xsettings --property /Gtk/CursorThemeSize --set 13
 ```
 
 Plugin 
-1.Ayu Theme
-2.A File Icon
+- Ayu Theme
+- A File Icon
