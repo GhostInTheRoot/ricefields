@@ -210,3 +210,21 @@ yay -S papirus-icon-theme papirus-nord nordic-theme-git \
 xfconf-query --channel xsettings --property /Gtk/CursorThemeSize --set 13
 ```
 
+
+#### Sublime Text Customization
+
+```bash
+{
+	"font_face": "JetBrainsMono Nerd Font",
+	"font_size": 15,
+	"save_on_focus_lost": true,
+	"caret_style": "phase",
+	"line_padding_bottom": 15,
+	"line_padding_top": 15,
+
+}
+```
+
+Plugin 
+1.Ayu Theme
+2.A File Icon
