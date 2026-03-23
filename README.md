@@ -228,3 +228,4 @@ xfconf-query --channel xsettings --property /Gtk/CursorThemeSize --set 13
 #### Sublime Text Plugin 
 - Ayu Theme
 - A File Icon
+- Monokai Pro
