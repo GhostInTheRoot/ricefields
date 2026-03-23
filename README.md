@@ -81,14 +81,14 @@ Open the control panel init file:
 sudo nano /usr/share/calla/desktop/theme/control/init.lua
 ```
 
-Change this line:
+Change this line infobox:
 
 ```lua
 -- Before
-bottom = dpi(430)
+height = dpi(360)
 
 -- After
-bottom = dpi(360)
+height = dpi(310)
 ```
 
 ---
